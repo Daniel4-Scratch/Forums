@@ -30,6 +30,7 @@ Now add the following code
 <html>
   <head>
     <title>[PostName]</title>
+       <script src='https://daniel4-scratch.github.io/Forums/script.js' defer></script> 
     <link rel="stylesheet" href="https://daniel4-scratch.github.io/Forums/style.css">
   </head>
   <body>
