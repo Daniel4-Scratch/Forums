@@ -1,10 +1,18 @@
-.holder {
-  background-color:grey;
-  border-radius:10px;
-  border:1px soild black;
+
+html,body{background-image:url(https://cdn.scratch.mit.edu/scratchr2/static/images/scratch-bg.png);height:100%}
+.box{
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  background-color:#c2c2c2;
+  color:white;
+  padding:10px;
+  margin-left:9em;
+  margin-right:9em;
 }
-.post {
-  background-color:lightgrey;
-  border-radius:10px;
-  border:1px soild black;
+.box-content{
+  border:2px solid #c2c2c2;
+  padding:10px;
+  margin-left:9em;
+  margin-right:9em;
+  backgroudn-color:white;
 }
