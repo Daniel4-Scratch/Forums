@@ -1,5 +1,9 @@
 
-html,body{background-image:url(https://cdn.scratch.mit.edu/scratchr2/static/images/scratch-bg.png);height:100%}
+html,body{
+  background-image:url(https://cdn.scratch.mit.edu/scratchr2/static/images/scratch-bg.png);
+  height:100%;
+  font-family: helvetica, arial, sans-serif;
+}
 .box{
   border-top-left-radius:15px;
   border-top-right-radius:15px;
