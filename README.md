@@ -18,6 +18,8 @@ Now add the following code to reply under the topic
 [Example](https://daniel4-scratch.github.io/Forums/topics/1)
 
 Don't forget to open a pull request!
+
+@Daniel4-Scratch will comment details (in the pr) on were to find your post.
 ## Topics
 
 Go into the `topics` folder and create a html with a name like `[GithubUserName]-[PostName].html` > `Daniel4-Scratch-My-Post.html`.
@@ -43,3 +45,5 @@ Now add the following code
 [Example](https://daniel4-scratch.github.io/Forums/topics/1)
 
 Don't forget to open a pull request!
+
+@Daniel4-Scratch will comment details (in the pr) on were to find your post.
