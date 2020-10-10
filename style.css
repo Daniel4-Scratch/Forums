@@ -1,3 +1,10 @@
 .holder {
-
+  background-color:grey;
+  border-radius:10px;
+  border:1px soild black;
+}
+.post {
+  background-color:lightgrey;
+  border-radius:10px;
+  border:1px soild black;
 }
