@@ -2,7 +2,7 @@ document.body.innerHTML += '<p style="position:fixed;top:20px;right:20px; backgr
 function searchf(){ 
    
    var number=document.getElementById("db-forums").value;  
-   window.location.href='topics/'+number+''
+   window.location.href='https://daniel4-scratch.github.io/Forums/topics/'+number+''
 } 
 function endBox(){
    if (document.title == "404"){
