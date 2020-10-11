@@ -1,0 +1,9 @@
+server feed =>
+  github =>
+    "Daniel4-Scratch/Forums"
+
+deploy =>
+  bots =>
+    [Aprrove, Ban]
+    A: Active
+    B: Offline
